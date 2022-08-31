@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navigation/>
-    <main class="flex flex-col items-center justify-center mt-20">
+    <main class="flex flex-col items-center justify-center">
       <Nuxt/>
     </main>
   </div>
